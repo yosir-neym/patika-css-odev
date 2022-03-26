@@ -1,0 +1,102 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #F6F4E8;
+  color: #1D3124;
+}
+
+/* Header */
+
+h1 {
+  text-align: center;
+  font-size: 64px;
+  margin: 5px;
+  padding: 5px;
+}
+
+nav {
+  background-color: #BACEC1;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 28px;
+}
+
+nav li {
+  display: inline-block;
+  padding-bottom: 15px;
+  padding-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1D3124;
+}
+
+nav a:hover {
+  color: #E59560;
+}
+
+/* Giris */
+
+#giris img {
+  padding-left: 20px;
+  width: auto;
+}
+
+#giris  {
+  text-align: center;
+}
+
+#giris h2 {
+  font-size: 32px;
+  color: #E59560;
+}
+
+#giris p {
+  font-size: 18px;
+}
+
+/* Vizyondakiler */
+
+#vizyonda {
+  text-align: center;
+}
+
+#vizyonda h2 {
+  text-align: center;
+  font-size: 36px;
+}
+
+#vizyonda li {
+  display: inline-block;
+  padding-right: 50px;
+}
+
+#vizyonda h3 {
+  font-size: larger;
+}
+
+/* Pek Yakinda */
+
+#yakinda {
+  text-align: center;
+}
+
+#yakinda h2 {
+  text-align: center;
+  font-size: 36px;
+}
+
+#yakinda li {
+  display: inline-block;
+  padding-right: 100px;
+}
+
+/* Iletisim */
+footer {
+  text-align: center;
+}
+
+#iletisim h3 {
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
